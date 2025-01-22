@@ -1,2 +1,1 @@
-# About-me
-About me page
+www.kotoweb.pl/o-mnieEN.html
